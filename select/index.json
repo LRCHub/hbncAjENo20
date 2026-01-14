@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "余命宣告",
+  "base_artist": "EDＷ1N",
+  "createdAt": "2026-01-14T02:40:43.551472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "余命宣告",
+      "artist": "波羅ノ鬼",
+      "has_synced": true,
+      "path": "select/01_余命宣告_波羅ノ鬼.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "余命宣告",
+      "artist": "EDW1N",
+      "has_synced": false,
+      "path": "select/pl_01_余命宣告_EDW1N.txt"
+    }
+  ]
+}
